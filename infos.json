@@ -1,0 +1,9 @@
+{
+  "ts": 1451649600512,
+  "values": {
+    "day": "value1",
+    "hour": "value1",
+    "duration": 42.0,
+    "isIntruder": true
+  }
+}
