@@ -10,7 +10,7 @@ buzzer = TonalBuzzer(18)
 print("Waiting for motion...")
 while True:
         pir.wait_for_motion()
-        print("✅ Motion detected!")
+        print("Motion detected!")
 
         buzzer.play(440)
         sleep(1)
